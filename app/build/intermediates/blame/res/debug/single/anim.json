@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out.xml",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out.xml",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\anim\\slide_in.xml"
+    }
+]

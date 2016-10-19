@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\l\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\strong\Test\AndroidWeiXing1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_657f146bd92efe5c8eb3179b0e4f51c42963fbef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\strong\Test\AndroidWeiXing1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cf12bf61546fb359ad9a8557ddb924cfab7dd035">
+        <dex dex="D:\strong\Test\AndroidWeiXing1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9cd8e7214093ac71d859d607136e915e42a25044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\strong\Test\AndroidWeiXing1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="edc3c8acb4d6a74d057702a296021373c0eda45e">
+        <dex dex="D:\strong\Test\AndroidWeiXing1\app\build\intermediates\pre-dexed\debug\instant-run_73c3a939f60b5750c992278c8f037bb342182836.jar" />
+    </item>
+
+</items>

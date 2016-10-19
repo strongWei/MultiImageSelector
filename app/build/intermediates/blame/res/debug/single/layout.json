@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dir_item.xml",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\layout\\list_dir_item.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dir_item.xml",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\layout\\list_dir_item.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dir.xml",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\layout\\list_dir.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dir.xml",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\layout\\list_dir.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

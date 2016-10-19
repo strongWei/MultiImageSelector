@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="17770350977149"
+    token="3275298707674731331"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="244" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="10" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="D:\strong\Test\AndroidWeiXing1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="17770350977149"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\strong\Test\AndroidWeiXing1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

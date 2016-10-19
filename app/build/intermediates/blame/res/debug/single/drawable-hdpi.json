@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_choose.png",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\drawable-hdpi\\dir_choose.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_choose.png",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\drawable-hdpi\\dir_choose.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_dir.png",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\drawable-hdpi\\pic_dir.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pictures_selected.png",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\drawable-hdpi\\pictures_selected.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pictures_selected.png",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\drawable-hdpi\\pictures_selected.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\picture_unselected.png",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\drawable-hdpi\\picture_unselected.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\MultiImageSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pictures_no.png",
+        "source": "D:\\strong\\Test\\MultiImageSelector\\app\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pictures_no.png",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_dir.png",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\drawable-hdpi\\pic_dir.png"
+    },
+    {
+        "merged": "D:\\strong\\Test\\AndroidWeiXing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\picture_unselected.png",
+        "source": "D:\\strong\\Test\\AndroidWeiXing1\\app\\src\\main\\res\\drawable-hdpi\\picture_unselected.png"
+    }
+]
