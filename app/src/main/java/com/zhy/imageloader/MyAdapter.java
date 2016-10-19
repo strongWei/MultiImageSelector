@@ -63,6 +63,10 @@ public class MyAdapter extends CommonAdapter<String>
 				} else
 				// 未选择该图片
 				{
+					//不能选择超过九张图片
+					if(mSelectedImage.size() == 9){
+						return;
+					}
 
 					mSelectedImage.add(mDirPath + "/" + item);
 					mSelect.setImageResource(R.drawable.pictures_selected);
